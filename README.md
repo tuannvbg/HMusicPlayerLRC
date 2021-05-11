@@ -4,6 +4,7 @@ Player HTML5 Can play Song, Album file mp3 support LRC
 * Demo
 ![Demo](Screenshot/demo.png)
 You can add music from js/test.js
+```javascript
 musicList:[
             {
                 name:'Mỹ Nhân',
